@@ -1,0 +1,13 @@
+[2026-06-11 12:25:58] [PASS] src/ directory exists
+[2026-06-11 12:25:58] [PASS] config.json is valid JSON
+[2026-06-11 12:25:58] [INFO] ALL CHECKS PASSED
+[2026-06-11 12:26:25] [PASS] src/ directory exists
+[2026-06-11 12:26:25] [PASS] config.json is valid JSON
+[2026-06-11 12:26:25] [INFO] ALL CHECKS PASSED
+bash: $'\E[200~bash': command not found
+[2026-06-11 12:26:50] [PASS] src/ directory exists
+[2026-06-11 12:26:50] [PASS] config.json is valid JSON
+[2026-06-11 12:26:50] [INFO] ALL CHECKS PASSED
+[2026-06-11 12:27:06] [PASS] src/ directory exists
+[2026-06-11 12:27:06] [PASS] config.json is valid JSON
+[2026-06-11 12:27:06] [INFO] ALL CHECKS PASSED
